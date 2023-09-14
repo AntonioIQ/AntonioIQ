@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AntonioIQ
-- 👀 I’m interested in Data Science, Chemestry, Machine Learnning, Process Engineering
-- 🌱 I’m currently learning Master in Data Science
-- 💞️ I’m looking to collaborate on Algoritms
 - 📫 How to reach me j.antonio.tg@gmail.com
 
 <!---
