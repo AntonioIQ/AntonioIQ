@@ -2,6 +2,10 @@
 
 I’m a **Data Architect, Data Scientist, and Chemical Engineer** interested in understanding complex systems through data, mathematics, and computation.
 
+## Projects
+
+- 📈 [LikelyCoin](https://likelycoin.netlify.app/) — Cryptocurrency market exploration and data-driven signals.
+
 My work and personal projects explore the intersection of:
 
 * 🏛️ Data architecture and Data Vault 2.0
